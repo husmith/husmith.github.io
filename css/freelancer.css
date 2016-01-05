@@ -1,3 +1,17 @@
+/* Changes to bootstrap elements */
+.dl-horizontal dt {
+    float: left;
+    width: 200px;
+    clear: left;
+    text-align: right;
+    overflow: visible;
+    text-overflow: ellipsis;
+    white-space: nowrap
+  }
+  .dl-horizontal dd {
+    margin-left: 210px
+  }
+
 body {
   overflow-x: hidden;
 }

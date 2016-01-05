@@ -1,1 +1,8 @@
 _site/
+*.log
+less/
+node_modules/
+Gruntfile.js
+package.json
+mail/
+venv/
